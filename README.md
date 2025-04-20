@@ -3,6 +3,8 @@
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/MartinDebrah/LABURL)
+
+    <h2>👨‍💻 Resume:</h2>
 - [Resume](https://github.com/MartinDebrah/MartinDebrah/blob/main/Martin_Debrah_Resume.pdf)
 
  
