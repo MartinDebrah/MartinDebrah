@@ -5,7 +5,8 @@
   - [Active Directory Home Lab](https://github.com/MartinDebrah/LABURL)
 
 <h2> AI & Quantum Computing Projects:</h2>
-- [Hello World!](https://github.com/MartinDebrah/LABURL) 
+- [AI & Computing.ipynb](AI%20%26%20Computing.ipynb): Exploratory notebook covering key AI and quantum computing concepts.
+ 
 
 <h2> Certifications</h2>
 
