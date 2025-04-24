@@ -1,41 +1,47 @@
-<h1>Hi, I'm Martin! </h1>
+# 👋 Hi, I'm Martin Antwi Debrah
 
-<h2>👨‍💻 Cybersecurity projects:</h2>
+🚀 Aspiring Cybersecurity Professional | Cryptography Enthusiast | Data Explorer | Lifelong Learner
 
-  - [Active Directory Home Lab](https://github.com/MartinDebrah/LABURL)
+🎓 **MS in Cybersecurity** – Old Dominion University  
+🎯 **Chartered Financial Economist (CFE)**  
+💡 Passionate about cryptography, ethical hacking, and decision-making under uncertainty.
 
-    <h2>👨‍💻 Resume:</h2>
-- [Resume](https://github.com/MartinDebrah/MartinDebrah/blob/main/Martin_Debrah_Resume.pdf)
+---
 
- 
+## 🔍 About Me
 
-<h2> Certifications</h2>
+- 🛡️ I’m deeply interested in **post-quantum cryptography**, GRC, and ethical hacking.
+- 🧠 Currently mastering **Linux, networking, cryptography, and Python for security**.
+- 📘 Reading: *Understanding Cryptography* by Christof Paar & Jan Pelzl.
+- 🧪 Hands-on with projects involving **Windows Server, firewalls, and cybersecurity labs**.
 
-- [AI Security & Governance] (https://education.securiti.ai/verification/1335AA3A9-1335AA218-12D3685F7/)
-- [AI & Quantum Computing Mastery] (https://www.udemy.com/certificate/UC-b7b44fb2-5b7f-4314-8af0-2ee856785b73/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+---
 
+## 🧠 Core Skills
 
+- 🔐 Cybersecurity Labs | Cryptography | Linux | Windows Server
+- 🧰 Tools: Wireshark, VirtualBox, Qiskit, Kali Linux, Active Directory
+- 💻 Programming: Python, Bash
+- 🛠️ Platforms: GitHub, Canvas, Google Cloud, Git
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📁 Projects
 
-[LinkedIN]: linkedin.com/in/martin-antwi-debrah-3532a9171
-[youtube]: https://www.youtube.com/channel/UC9xfZIotd_Pl4aE7qpGFfPg
+| Project | Description | Tools Used |
+|--------|-------------|-------------|
+| 🔐 [Firewall Configuration Lab](https://github.com/MartinDebrah/firewall-config-lab) | Configure firewall rules via GPO on Windows Server | Windows Server, GPO, VM |
+| 🧮 [Quantum ML Classifier](https://github.com/MartinDebrah/qiskit-ml-classifier) | Quantum-enhanced classification using Qiskit | Python, Qiskit, Scikit-learn |
+| 📊 [Data Analysis with Python](https://github.com/MartinDebrah/data-exploration) | Data cleaning, visualization, and EDA | Pandas, Matplotlib |
+| 🧠 [Leadership Psychology Reflection](https://github.com/MartinDebrah/leadership-reflection) | Academic paper on motivation and goal-setting | APA, PDF |
 
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Let's Connect
 
-Here are some ideas to get you started:
+- 💼 [LinkedIn](https://www.linkedin.com/in/martindebrah/)
+- 📫 Email: martinantwidebrah@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier  
