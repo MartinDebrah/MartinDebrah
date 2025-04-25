@@ -2,13 +2,13 @@
 
  **Aspiring CISO | GRC & Risk Strategist | Cryptography & AI Security Enthusiast | Bridging Policy with Deep Technical Defense**
 
-🎓 Cybersecurity Graduate Student – Old Dominion University  
-🎯 Finance and Economics Background  
-💡 Blending governance with hands-on security experience. Passionate about post-quantum cryptography, secure system design, and responsible AI.
+ Cybersecurity Graduate Student – Old Dominion University  
+ Finance and Economics Background  
+ Blending governance with hands-on security experience. Passionate about post-quantum cryptography, secure system design, and responsible AI.
 
 ---
 
-## 🔍 About Me
+##  About Me
 
 - Focused on mastering **GRC**, **threat mitigation**, and **post-quantum cryptographic frameworks**
 - Hands-on lab work in Windows/Linux system defense and firewall configuration
