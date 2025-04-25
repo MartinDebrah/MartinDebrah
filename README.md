@@ -22,7 +22,7 @@
 |--------|-------------|
 | **CYSE 600** – *Cybersecurity Principles* | Studied CIA triad, threat models, incident response, and cyber policy foundations. |
 | **CYSE 608** – *Windows System for Cybersecurity* | Hands-on labs with Group Policy, user rights, and host-based firewall configurations. |
-| **CYSE 609** – *Linux Systems for Cybersecurity* | Secured Linux environments using CLI, scripting, user permissions, and automation. |
+| **CYSE 609** – *Linux Systems for Cybersecurity* | Secured Linux environments, scripting, user permissions, and automation. |
 
 ---
 
@@ -45,7 +45,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/martin-antwi-debrah-3532a9171)  
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/channel/UC9xfZIotd_Pl4aE7qpGFfPg)
+
 
 ---
 
