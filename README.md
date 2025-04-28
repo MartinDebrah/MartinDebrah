@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Martin Antwi Debrah
 
- **Aspiring CISO | GRC & Risk Strategist | Cryptography & AI Security Enthusiast | Bridging Policy with Deep Technical Defense**
+ **Cybersecurity | Cryptography & AI Security Enthusiast | Bridging Policy with Deep Technical Defense**
 
 - Cybersecurity Graduate Student – Old Dominion University  
 - Finance and Economics Background.  
