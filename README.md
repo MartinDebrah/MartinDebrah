@@ -8,11 +8,7 @@
 
 ---
 
-## 🔐 Cloud Security Projects Portfolio
-
-Below are curated, hands-on cloud security projects across **AWS**, **Azure**, and **Google Cloud** designed to demonstrate security architecture, risk mitigation, and compliance strategies.
-
----
+## 🔐 Cloud Security Projects 
 
 ## ☁️ AWS Security Projects
 
