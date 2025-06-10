@@ -8,9 +8,9 @@
 
 ---
 
-## 🔐 Cloud Security Projects 
+## Cloud Security Projects 
 
-## ☁️ AWS Security Projects
+## AWS
 
 1. IAM Least Privilege Enforcement(https://github.com/MartinDebrah/aws-iam-least-privilege)  
 2. Security Monitoring with AWS CloudTrail + GuardDuty(https://github.com/MartinDebrah/aws-cloudtrail-guardduty)  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔪 Azure Security Projects
+## Azure
 
 1. Secure Azure IAM & Role-Based Access Control (RBAC)(https://github.com/MartinDebrah/azure-rbac-security)  
 2. Azure Security Center + Defender for Cloud Lab(https://github.com/MartinDebrah/azure-defender-lab)  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🔴 Google Cloud (GCP) Security Projects
+## Google Cloud (GCP)
 
 1. Secure GCP IAM and Least Privilege Project(https://github.com/MartinDebrah/gcp-iam-least-privilege)  
 2. Enable Security Command Center (SCC) + Detect Threats(https://github.com/MartinDebrah/gcp-scc-detection)  
@@ -55,7 +55,7 @@
 
 ---
 
-## 🛡️ Security Architect Projects (Multi-Cloud)
+## Security Architect Projects (Multi-Cloud)
 
 ### AWS
 1. Design a Secure Multi-Account AWS Organization(https://github.com/MartinDebrah/aws-org-security-architecture)  
@@ -95,14 +95,14 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 - AI Security & Governance – Securiti(https://education.securiti.ai/verification/1335AA3A9-1335AA218-12D3685F7/)
 - AI & Quantum Computing Mastery – Udemy(https://www.udemy.com/certificate/UC-b7b44fb2-5b7f-4314-8af0-2ee856785b73/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 
 ---
 
-## 💡 Core Skills
+## Core Skills
 
 - GRC | Risk Analysis | Cryptography | Windows/Linux Hardening | Cybersecurity Principles  
 - Tools: Wireshark, Qiskit, Kali Linux, ServiceNow, Group Policy Management  
@@ -111,7 +111,7 @@
 
 ---
 
-### 🔍 Reflection / Analysis
+### Reflection / Analysis
 
 Through my coursework in CYSE 600, CYSE 608, and CYSE 609, I recognized that preparing for post-quantum cryptography adoption is not just a technical upgrade but a comprehensive governance and risk management challenge.
 
