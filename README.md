@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Martin Antwi Debrah
 
-**Aspiring CISO | GRC & Risk Strategist | Cryptography & AI Security Enthusiast | Bridging Policy with Deep Technical Defense**
+Governance, Risk & Compliance (GRC) | FinOps Strategy | Cloud Security | Microsoft SC-200 | Certified API Hacking Expert (CAPIE) | Cisco Cybersecurity Analyst | AWS AI Practitioner | AI Security & Governance | Chartered Financial Economist
 
-- Cybersecurity Graduate Student – Old Dominion University  
-- Finance and Economics Background.  
-- Blending governance with hands-on security experience. Passionate about post-quantum cryptography, secure system design, and responsible AI.
 
 ---
 
