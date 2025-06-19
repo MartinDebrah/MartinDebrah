@@ -9,7 +9,7 @@
 ---
 
 ## Projects 
-
+IAM permission analysis for the Least Privilege Enforcement https://github.com/MartinDebrah/IAM-permission-analysis-for-the-Least-Privilege-Enforcement-project
 
 ---
 
