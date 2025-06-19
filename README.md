@@ -6,8 +6,8 @@ Governance, Risk & Compliance (GRC) | FinOps Strategy | Cloud Security | Microso
 ---
 
 ## Projects 
-IAM permission analysis for the Least Privilege Enforcement https://github.com/MartinDebrah/IAM-permission-analysis-for-the-Least-Privilege-Enforcement-project
-AWS FinOps Cost Intelligence Dashboard https://github.com/MartinDebrah/AWS-FinOps-Cost-Intelligence-Dashboard/blob/main/README.md
+1. IAM permission analysis for the Least Privilege Enforcement https://github.com/MartinDebrah/IAM-permission-analysis-for-the-Least-Privilege-Enforcement-project
+2. AWS FinOps Cost Intelligence Dashboard https://github.com/MartinDebrah/AWS-FinOps-Cost-Intelligence-Dashboard/blob/main/README.md
 
 ## Certifications
 
