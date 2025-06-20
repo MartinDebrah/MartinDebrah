@@ -10,6 +10,7 @@ Governance, Risk & Compliance (GRC) | FinOps Strategy | Cloud Security | Microso
 2. AWS FinOps Cost Intelligence Dashboard https://github.com/MartinDebrah/AWS-FinOps-Cost-Intelligence-Dashboard/blob/main/README.md
 3. API Pentest Playbook https://github.com/MartinDebrah/API-Pentest-Playbook
 4. AI Model Output Risk Auditor https://github.com/MartinDebrah/AI-Model-Output-Risk-Auditor/blob/main/README.md
+5. Cybersecurity ROI Simulator https://github.com/MartinDebrah/Cybersecurity-ROI-Simulator/blob/main/README.md
 ## Certifications
 
 - AI Security & Governance – Securiti(https://education.securiti.ai/verification/1335AA3A9-1335AA218-12D3685F7/)
