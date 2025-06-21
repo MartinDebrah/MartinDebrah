@@ -12,6 +12,10 @@ Governance, Risk & Compliance (GRC) | FinOps Strategy | Cloud Security | Microso
 4. AI Model Output Risk Auditor https://github.com/MartinDebrah/AI-Model-Output-Risk-Auditor/blob/main/README.md
 5. Cybersecurity ROI Simulator https://github.com/MartinDebrah/Cybersecurity-ROI-Simulator/blob/main/README.md
 
+
+*⚠️ All projects are based on simulated or educational environments and do not expose real data.*
+
+
 ## Certifications
 
 - Microsoft Certified: Security Operations Analyst Associate https://learn.microsoft.com/en-us/users/martinantwidebrah-4020/credentials/7a7aab7beef75ca5?ref=https%3A%2F%2Fwww.linkedin.com%2F
